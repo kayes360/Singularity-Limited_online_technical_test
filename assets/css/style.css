@@ -217,8 +217,8 @@ body {
     font-size: 20px;  
 }
 .hero-card-t{
-    height: 440px;
-    width: 400px;
+    height: 24rem;
+    width: 20rem;
     border-radius: 20px;
     color: #fff;
     background-repeat: no-repeat;
@@ -469,7 +469,7 @@ button:hover .icon{
 
 
 .card-content-title{
-    font-size: 18px;
+    font-size: px;
 }
 
 /* Section Six End */
