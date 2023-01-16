@@ -1,0 +1,130 @@
+ [
+        {
+            "nftID": 1,
+            "main_img_link": "assets/img/hero-card-one.png",
+            "card_content_title": "ArtCrypto",
+            "category": "Art",
+            "nft_value":  0.25
+        } 
+        ,      
+        {
+            "nftID": 2,
+            "main_img_link": "assets/img/hero-card-two.png",
+            "card_content_title": "This NFT",
+            "category": "Celebrities",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 3,
+            "main_img_link": "assets/img/hero-card-three.png",
+            "card_content_title": "NameCrypto",
+            "category": "Gaming",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 4,
+            "main_img_link": "assets/img/hero-card-four.png",
+            "card_content_title": "KingCrypto",
+            "category": "Sport",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 5,
+            "main_img_link": "assets/img/hero-card-four.png",
+            "card_content_title": "KingCrypto",
+            "category": "Music",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 6,
+            "main_img_link": "assets/img/hero-card-three.png",
+            "card_content_title": "This NFT",
+            "category": "Crypto",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 7,
+            "main_img_link": "assets/img/hero-card-one.png",
+            "card_content_title": "NameCrypto",
+            "category": "Art",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 8,
+            "main_img_link": "assets/img/hero-card-two.png",
+            "card_content_title": "KingCrypto",
+            "category": "Celebrities",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 9,
+            "main_img_link": "assets/img/hero-card-one.png",
+            "card_content_title": "ArtCrypto",
+            "category": "Gaming",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 10,
+            "main_img_link": "assets/img/hero-card-four.png",
+            "card_content_title": "This NFT",
+            "category": "Sport",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 11,
+            "main_img_link": "assets/img/hero-card-two.png",
+            "card_content_title": "NameCrypto",
+            "category": "Music",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 12,
+            "main_img_link": "assets/img/hero-card-three.png",
+            "card_content_title": "KingCrypto",
+            "category": "Crypto",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 13,
+            "main_img_link": "assets/img/hero-card-three.png",
+            "card_content_title": "ArtCrypto",
+            "category": "Art",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 14,
+            "main_img_link": "assets/img/hero-card-two.png",
+            "card_content_title": "This NFT",
+            "category": "Celebrities",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 15,
+            "main_img_link": "assets/img/hero-card-one.png",
+            "card_content_title": "NameCrypto ",
+            "category": "Gaming",
+            "nft_value":  0.25
+        }       
+        ,      
+        {
+            "nftID": 16,
+            "main_img_link": "assets/img/hero-card-four.png",
+            "card_content_title": "KingCrypto ",
+            "category": "Sport",
+            "nft_value":  0.25
+        }       
+    ]
+ 

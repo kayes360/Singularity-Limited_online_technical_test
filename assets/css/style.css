@@ -29,8 +29,10 @@
   src: url("../fonts/integralcf-regular.otf") format("opentype");
 }
 /* font-family: 'DM Sans', sans-serif; */
-
-.btn-dark-blue {
+.hide {
+    display: none; 
+  } 
+.btn-dark-blue,.active {
   --bs-btn-color: #fff;
   --bs-btn-bg: var(--dark-blue);
   --bs-btn-border-color: var(--dark-blue);
